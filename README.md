@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Divya Tamakuwala</span></h1>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=2500&pause=1000&width=600&lines=Full%20Stack%20Developer%20(5%2B%20yrs);Angular%20%7C%20React%20%7C%20Node.js;Building%20scalable%2C%20AI-powered%20web%20apps" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
