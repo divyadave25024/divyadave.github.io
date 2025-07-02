@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Divya Tamakuwala</span></h1>
 
 <p align="center">
-  💻 Full Stack Developer (5+ yrs) &mdash; Angular • React • Node.js  
-  <br/>
-  🚀 I build scalable, AI-powered web apps and dynamic UIs
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+(5%2B+yrs);Angular+%7C+React+%7C+Node.js;Building+scalable%2C+AI-powered+web+apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,32 +34,35 @@
 
 ## 🌟 Featured Projects
 
-<table>
-<tr>
-<td><b>🧠 Bridginex AI</b></td>
-<td>AI-powered company discovery platform built with Next.js, TypeScript & Tailwind. Includes filters, profile insights, and smart search.</td>
-</tr>
-<tr>
-<td><b>📊 Actionalgo</b></td>
-<td>Stock strategy builder with weighted fund allocation, live financial indicators, and visual logic nesting using Angular + MSAL.</td>
-</tr>
-<tr>
-<td><b>📨 Let’s Family Newsletter</b></td>
-<td>Angular + Perl based newsletter app with widget scheduling, layout builder, ad management, and multilingual content support.</td>
-</tr>
-<tr>
-<td><b>📱 The Bridge</b></td>
-<td>Mobile-first community platform using Ionic + Angular, supporting multi-user profiles, event scheduling, and theme-based SCSS design.</td>
-</tr>
-<tr>
-<td><b>📢 Notifvia</b></td>
-<td>Facebook chatbot marketing tool built with Angular + Material, featuring Graph API integration, broadcast flows, and real-time analytics.</td>
-</tr>
-<tr>
-<td><b>💬 LinkDM</b></td>
-<td>Instagram automation platform with smart DMs, campaign triggers, and actionable metrics—built with Angular and RxJS.</td>
-</tr>
-</table>
+<details>
+<summary><strong>🧠 Bridginex AI</strong></summary>
+<p>AI-powered company discovery platform built with Next.js, TypeScript & Tailwind. Includes filters, profile insights, and smart search.</p>
+</details>
+
+<details>
+<summary><strong>📊 Actionalgo</strong></summary>
+<p>Stock strategy builder with weighted fund allocation, live financial indicators, and visual logic nesting using Angular + MSAL.</p>
+</details>
+
+<details>
+<summary><strong>📨 Let’s Family Newsletter</strong></summary>
+<p>Angular + Perl based newsletter app with widget scheduling, layout builder, ad management, and multilingual content support.</p>
+</details>
+
+<details>
+<summary><strong>📱 The Bridge</strong></summary>
+<p>Mobile-first community platform using Ionic + Angular, supporting multi-user profiles, event scheduling, and theme-based SCSS design.</p>
+</details>
+
+<details>
+<summary><strong>📢 Notifvia</strong></summary>
+<p>Facebook chatbot marketing tool built with Angular + Material, featuring Graph API integration, broadcast flows, and real-time analytics.</p>
+</details>
+
+<details>
+<summary><strong>💬 LinkDM</strong></summary>
+<p>Instagram automation platform with smart DMs, campaign triggers, and actionable metrics—built with Angular and RxJS.</p>
+</details>
 
 ---
 
@@ -71,8 +72,8 @@
   <a href="https://www.linkedin.com/in/divya-dave-tamakuwala/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:d.tamakuwala@bridginex.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-d.tamakuwala@bridginex.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:divyadave25024@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-divyadave25024@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://divya-portfolio-fawn.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
