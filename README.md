@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Divya Tamakuwala</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+(5%2B+yrs);Angular+%7C+React+%7C+Node.js;Building+scalable%2C+AI-powered+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Full%20Stack%20Developer%20(5%2B%20yrs);Angular%20%7C%20React%20%7C%20Node.js;Building%20scalable%2C%20AI-powered%20web%20apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -84,12 +84,3 @@
 </p>
 
 ---
-
-<details>
-  <summary>📈 GitHub Stats</summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=divyadavetamakuwala&show_icons=true&theme=radical" alt="Divya's GitHub stats" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadavetamakuwala&layout=compact&theme=radical" height="165"/>
-  </p>
-</details>
