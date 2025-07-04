@@ -1,10 +1,14 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Divya Tamakuwala</span></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=2500&pause=1000&width=600&lines=Full%20Stack%20Developer%20(5%2B%20yrs);Angular%20%7C%20React%20%7C%20Node.js;Building%20scalable%2C%20AI-powered%20web%20apps&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=2500&pause=1000&width=600&lines=Senior%20Full%20Stack%20Developer%20(5%2B%20yrs);Angular%20%7C%20React%20%7C%20Node.js;Building%20enterprise-grade%2C%20scalable%20solutions&center=true" alt="Typing SVG" />
 </div>
 
 ---
+
+## 💼 Professional Summary
+
+Senior Full Stack Developer with 5+ years of experience delivering scalable, enterprise-grade web applications using Angular, React.js, and Node.js. Skilled in designing robust architectures, advanced state management, and optimizing performance for complex systems. Proven expertise in accelerating development lifecycles through AI-assisted workflows, CI/CD pipelines, and clean code practices. Adept at leading feature development and collaborating across multidisciplinary teams to deliver secure, production-ready solutions.
 
 ## 🛠 Tech Stack
 
@@ -14,55 +18,74 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
-### 🧠 Backend & DB
+### 🧠 Backend & Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### ⚙️ Tools
+### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
 <details>
-<summary><strong>🧠 Bridginex AI</strong></summary>
-<p>AI-powered company discovery platform built with Next.js, TypeScript & Tailwind. Includes filters, profile insights, and smart search.</p>
+<summary><strong>🔍 Bridginex AI Platform</strong></summary>
+<p>Enterprise B2B networking platform leveraging AI for company discovery and insights.</p>
+<ul>
+<li>Built with Next.js, TypeScript & Tailwind CSS</li>
+<li>Implemented advanced filtering and profile analytics</li>
+<li>Designed scalable architecture for future expansion</li>
+</ul>
 </details>
 
 <details>
-<summary><strong>📊 Actionalgo</strong></summary>
-<p>Stock strategy builder with weighted fund allocation, live financial indicators, and visual logic nesting using Angular + MSAL.</p>
+<summary><strong>📊 Actionalgo Trading Platform</strong></summary>
+<p>Enterprise-grade stock strategy builder with advanced portfolio management.</p>
+<ul>
+<li>Angular-based architecture with MSAL integration</li>
+<li>Real-time financial data processing</li>
+<li>Complex state management using RxJS</li>
+</ul>
 </details>
 
 <details>
-<summary><strong>📨 Let’s Family Newsletter</strong></summary>
-<p>Angular + Perl based newsletter app with widget scheduling, layout builder, ad management, and multilingual content support.</p>
+<summary><strong>📨 Enterprise Newsletter System</strong></summary>
+<p>Comprehensive content management and newsletter distribution platform.</p>
+<ul>
+<li>Angular frontend with Perl backend</li>
+<li>Advanced widget scheduling system</li>
+<li>Multi-tenant architecture with role-based access</li>
+</ul>
 </details>
 
 <details>
-<summary><strong>📱 The Bridge</strong></summary>
-<p>Mobile-first community platform using Ionic + Angular, supporting multi-user profiles, event scheduling, and theme-based SCSS design.</p>
+<summary><strong>🤖 Marketing Automation Suite</strong></summary>
+<p>Enterprise marketing platform with advanced automation capabilities.</p>
+<ul>
+<li>Angular + Material UI architecture</li>
+<li>Integration with multiple social media APIs</li>
+<li>Real-time analytics and reporting system</li>
+</ul>
 </details>
 
-<details>
-<summary><strong>📢 Notifvia</strong></summary>
-<p>Facebook chatbot marketing tool built with Angular + Material, featuring Graph API integration, broadcast flows, and real-time analytics.</p>
-</details>
+---
 
-<details>
-<summary><strong>💬 LinkDM</strong></summary>
-<p>Instagram automation platform with smart DMs, campaign triggers, and actionable metrics—built with Angular and RxJS.</p>
-</details>
+## 🎓 Education
+
+**Bachelor of Engineering (B.E.)**  
+Gujarat Technological University | 2015 – 2019
 
 ---
 
@@ -77,9 +100,6 @@
   </a>
   <a href="https://divya-portfolio-fawn.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/14805519/er-divya-dave" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 </p>
 
