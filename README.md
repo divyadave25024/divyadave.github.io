@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Divya Tamakuwala</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Divya</span></h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=2500&pause=1000&width=600&lines=Full%20Stack%20Developer%20(5%2B%20yrs);Angular%20%7C%20React%20%7C%20Node.js;Building%20enterprise-grade%2C%20scalable%20solutions&center=true" alt="Typing SVG" />
@@ -93,7 +93,7 @@ Gujarat Technological University | 2015 – 2019
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divya-dave-tamakuwala/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:divyadave25024@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
