@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Divya Tamakuwala</span></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=2500&pause=1000&width=600&lines=Senior%20Full%20Stack%20Developer%20(5%2B%20yrs);Angular%20%7C%20React%20%7C%20Node.js;Building%20enterprise-grade%2C%20scalable%20solutions&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=2500&pause=1000&width=600&lines=Full%20Stack%20Developer%20(5%2B%20yrs);Angular%20%7C%20React%20%7C%20Node.js;Building%20enterprise-grade%2C%20scalable%20solutions&center=true" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💼 Professional Summary
 
-Senior Full Stack Developer with 5+ years of experience delivering scalable, enterprise-grade web applications using Angular, React.js, and Node.js. Skilled in designing robust architectures, advanced state management, and optimizing performance for complex systems. Proven expertise in accelerating development lifecycles through AI-assisted workflows, CI/CD pipelines, and clean code practices. Adept at leading feature development and collaborating across multidisciplinary teams to deliver secure, production-ready solutions.
+Full Stack Developer with 5+ years of experience delivering scalable, enterprise-grade web applications using Angular, React.js, and Node.js. Skilled in designing robust architectures, advanced state management, and optimizing performance for complex systems. Proven expertise in accelerating development lifecycles through AI-assisted workflows, CI/CD pipelines, and clean code practices. Adept at leading feature development and collaborating across multidisciplinary teams to deliver secure, production-ready solutions.
 
 ## 🛠 Tech Stack
 
@@ -96,7 +96,7 @@ Gujarat Technological University | 2015 – 2019
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:divyadave25024@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-divyadave25024@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://divya-portfolio-fawn.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
