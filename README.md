@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Divya</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Divya Tamakuwala</span></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=2500&pause=1000&width=600&lines=Full%20Stack%20Developer%20(5%2B%20yrs);Angular%20%7C%20React%20%7C%20Node.js;Building%20enterprise-grade%2C%20scalable%20solutions&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=2500&pause=1000&width=600&lines=Full%20Stack%20Developer%20(6%2B%20yrs);Angular%20%7C%20React%20%7C%20Node.js;Building%20enterprise-grade%2C%20scalable%20solutions&center=true" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💼 Professional Summary
 
-Full Stack Developer with 5+ years of experience delivering scalable, enterprise-grade web applications using Angular, React.js, and Node.js. Skilled in designing robust architectures, advanced state management, and optimizing performance for complex systems. Proven expertise in accelerating development lifecycles through AI-assisted workflows, CI/CD pipelines, and clean code practices. Adept at leading feature development and collaborating across multidisciplinary teams to deliver secure, production-ready solutions.
+Full Stack Developer with 5+ years of experience delivering robust, scalable web solutions that empower enterprise, e-commerce, and SaaS platforms. Advanced expertise in Angular and practical experience building APIs using Node.js, specializing in crafting maintainable, secure, and performant applications. Proficient in RESTful API integration, scalable SPA development, and Agile delivery pipelines. Strong focus on CI/CD workflows, authentication (JWT, OAuth2), and cross-functional collaboration.
 
 ## 🛠 Tech Stack
 
@@ -18,7 +18,6 @@ Full Stack Developer with 5+ years of experience delivering scalable, enterprise
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
 ### 🧠 Backend & Architecture
@@ -41,42 +40,52 @@ Full Stack Developer with 5+ years of experience delivering scalable, enterprise
 ## 🌟 Featured Projects
 
 <details>
-<summary><strong>🔍 Bridginex AI Platform</strong></summary>
-<p>Enterprise B2B networking platform leveraging AI for company discovery and insights.</p>
+<summary><strong>🔍 Bridginex AI Ecosystem Platform</strong></summary>
+<p>Dynamic web platform showcasing AI innovations and company insights, fostering strategic partnerships.</p>
 <ul>
-<li>Built with Next.js, TypeScript & Tailwind CSS</li>
-<li>Implemented advanced filtering and profile analytics</li>
-<li>Designed scalable architecture for future expansion</li>
+<li>Built with Next.js & Tailwind CSS for optimal performance</li>
+<li>AI-driven B2B networking capabilities</li>
+<li>Responsive and modern UI/UX design</li>
 </ul>
 </details>
 
 <details>
-<summary><strong>📊 Actionalgo Trading Platform</strong></summary>
-<p>Enterprise-grade stock strategy builder with advanced portfolio management.</p>
+<summary><strong>📊 Actionalgo - Stock Strategy Builder</strong></summary>
+<p>High-performance application for creating, simulating, and executing trading strategies.</p>
 <ul>
-<li>Angular-based architecture with MSAL integration</li>
-<li>Real-time financial data processing</li>
-<li>Complex state management using RxJS</li>
+<li>Angular architecture with MSAL authentication</li>
+<li>Advanced modular workflows</li>
+<li>Enterprise-grade security implementation</li>
 </ul>
 </details>
 
 <details>
-<summary><strong>📨 Enterprise Newsletter System</strong></summary>
-<p>Comprehensive content management and newsletter distribution platform.</p>
+<summary><strong>📨 Let's Family Newsletter Platform</strong></summary>
+<p>Robust content management and email campaign platform with AI integration.</p>
 <ul>
-<li>Angular frontend with Perl backend</li>
-<li>Advanced widget scheduling system</li>
-<li>Multi-tenant architecture with role-based access</li>
+<li>Dynamic forms and widget management</li>
+<li>Secure backend API in Perl</li>
+<li>AI-powered developer workflows</li>
 </ul>
 </details>
 
 <details>
-<summary><strong>🤖 Marketing Automation Suite</strong></summary>
-<p>Enterprise marketing platform with advanced automation capabilities.</p>
+<summary><strong>🤖 Notifvia - Chatbot Marketing Platform</strong></summary>
+<p>Feature-rich platform for managing chatbot campaigns and automation.</p>
 <ul>
-<li>Angular + Material UI architecture</li>
-<li>Integration with multiple social media APIs</li>
-<li>Real-time analytics and reporting system</li>
+<li>Angular integration with Facebook Graph API</li>
+<li>Real-time engagement tracking</li>
+<li>Advanced analytics dashboards</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>📱 LinkDM - Instagram Automation Tool</strong></summary>
+<p>Comprehensive Instagram automation platform for enhanced social media engagement.</p>
+<ul>
+<li>Angular-based architecture with REST API integration</li>
+<li>Automated DM management and campaign triggers</li>
+<li>Advanced analytics and engagement tracking</li>
 </ul>
 </details>
 
@@ -92,13 +101,13 @@ Gujarat Technological University | 2015 – 2019
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divya-dave-tamakuwala/" target="_blank">
+  <a href="https://www.linkedin.com/in/divya-dave-tamakuwala/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:divyadave25024@gmail.com">
+  <a href="mailto:divyadave25024@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://divya-portfolio-fawn.vercel.app/" target="_blank">
+  <a href="https://divya-portfolio-fawn.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
